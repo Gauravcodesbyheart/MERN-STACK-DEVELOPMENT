@@ -1,0 +1,8 @@
+{
+  "name": "react-foundation",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "license": "ISC"
+}
